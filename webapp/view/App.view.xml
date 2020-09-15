@@ -1,0 +1,11 @@
+<mvc:View
+	displayBlock="true"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns="sap.m">
+	<Carousel>
+		<pages>
+			<Image src="https://i.pinimg.com/originals/9d/b7/49/9db749748ac8203ce9272fa1bb8913ed.jpg" height="400px"/>
+			<Image src="https://i.pinimg.com/originals/9d/b7/49/9db749748ac8203ce9272fa1bb8913ed.jpg" height="400px"/>
+		</pages>
+	</Carousel>
+</mvc:View>
